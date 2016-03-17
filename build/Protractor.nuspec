@@ -12,7 +12,7 @@
     <language>en-US</language>
     <tags>Angular AngularJS Protractor Selenium WebDriver E2E Test</tags>
     <dependencies>
-      <dependency id="Selenium.WebDriver" version="2.46.0" />
+      <dependency id="Selenium.WebDriver" version="2.52.0" />
     </dependencies>
   </metadata>
   <files>
