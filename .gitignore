@@ -5,6 +5,7 @@
 bin
 obj
 *.dll
+!/lib/*/*.dll
 
 *.pdb
 
